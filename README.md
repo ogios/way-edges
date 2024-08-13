@@ -1,3 +1,7 @@
+> [!NOTE]
+> Archived, moving to https://github.com/way-edges/way-edges  
+> Doc: [ https://way-edges.github.io](https://way-edges.github.io/description)
+
 https://github.com/user-attachments/assets/37d267cb-1cb4-44b4-81a8-8ac02bb741cb
 
 ## TODO
